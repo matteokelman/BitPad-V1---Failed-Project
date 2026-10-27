@@ -5,6 +5,8 @@ So this project was meant to be a MacroPad in a retro style with 9 keys and 2 ro
 
 <img width="515" height="360" alt="Screenshot 2026-10-27 at 00 00 00" src="https://github.com/user-attachments/assets/28c1c210-6582-4101-a3e9-77e5e6341b1f" />
 
+
+
 Sad to see this project fail but I hope I can do better next time.
 
 Error Report: ** Drc report for MacroPAD.kicad_pcb **
